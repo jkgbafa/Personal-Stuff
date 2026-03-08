@@ -1,4 +1,4 @@
-# QICKN LABS - AI Agency Roadmap & Execution Plan
+# QuicknLabs - AI Agency Roadmap & Execution Plan
 
 **Owner:** You
 **Date Created:** March 8, 2026
@@ -10,7 +10,7 @@
 ## TABLE OF CONTENTS
 
 1. [Financial Situation & Tax Plan](#1-financial-situation--tax-plan)
-2. [Business Overview - QICKN LABS](#2-business-overview---qickn-labs)
+2. [Business Overview - QuicknLabs](#2-business-overview---qickn-labs)
 3. [Revenue Stream #1: AI Receptionist / Virtual Assistant Service](#3-revenue-stream-1-ai-receptionist--virtual-assistant-service)
 4. [Revenue Stream #2: AI Consulting & Audits](#4-revenue-stream-2-ai-consulting--audits)
 5. [Lead Generation & Outreach Strategy](#5-lead-generation--outreach-strategy)
@@ -44,7 +44,7 @@
    - From each paycheck, set aside an additional fixed amount ($500-$800/month) specifically for the IRS debt
    - Set up auto-pay through the IRS Direct Pay portal so you don't miss payments
 3. **Important:** Do NOT use this year's withholdings to pay last year's debt. That will just create a new debt for this year. Keep them separate.
-4. **Once QICKN LABS revenue starts:** Allocate 30% of all agency income to taxes (self-employment tax is ~15.3% + income tax)
+4. **Once QuicknLabs revenue starts:** Allocate 30% of all agency income to taxes (self-employment tax is ~15.3% + income tax)
 5. **File quarterly estimated taxes** once agency income starts (Form 1040-ES) - due dates: April 15, June 15, September 15, January 15
 
 ### Quick Wins
@@ -54,9 +54,9 @@
 
 ---
 
-## 2. BUSINESS OVERVIEW - QICKN LABS
+## 2. BUSINESS OVERVIEW - QuicknLabs
 
-### What QICKN LABS Does
+### What QuicknLabs Does
 An AI automation agency that helps businesses replace or augment manual tasks (receptionists, virtual assistants, lead follow-up, appointment scheduling) with AI-powered solutions.
 
 ### Two Core Service Lines
@@ -234,7 +234,7 @@ it handles 80%+ of their calls automatically.
 Would you be open to a quick 10-min call to see if it might be a fit?
 
 [Your Name]
-QICKN LABS
+QuicknLabs
 ```
 
 ### Strategy B: Loom Video Outreach
@@ -276,7 +276,7 @@ Would you be open to a free 15-minute AI opportunity assessment?
 No pitch - just genuine insights you can use whether we work together or not.
 
 [Your Name]
-QICKN LABS
+QuicknLabs
 ```
 
 ---
@@ -345,8 +345,8 @@ Claude Code is a CLI tool - you work in the terminal. Here's the workflow:
 #### Monday (Day 1) - SETUP DAY
 - [ ] Morning (2 hours):
   - Set up IRS payment plan online
-  - Create QICKN LABS email (use Google Workspace $6/mo or free Gmail)
-  - Set up LinkedIn profile for QICKN LABS positioning
+  - Create QuicknLabs email (use Google Workspace $6/mo or free Gmail)
+  - Set up LinkedIn profile for QuicknLabs positioning
   - Update your personal LinkedIn headline: "I help businesses replace $3K/month receptionists with AI that works 24/7"
 - [ ] Afternoon/Evening (3 hours):
   - Sign up for Bland AI or Vapi (free tier/trial)
@@ -376,7 +376,7 @@ Claude Code is a CLI tool - you work in the terminal. Here's the workflow:
   - Send 10 more outreach messages
 - [ ] Afternoon (3 hours):
   - Build your AI audit template document (use the framework from Section 4)
-  - Create a simple one-page QICKN LABS website (use Carrd.co - $19/year)
+  - Create a simple one-page QuicknLabs website (use Carrd.co - $19/year)
   - Or build a quick landing page with Claude Code + deploy to Vercel
 
 #### Friday (Day 5) - LIGHT DAY
@@ -457,7 +457,7 @@ LEAD SCRAPING ──> OUTREACH ──> DEMO/CALL ──> CLOSE ──> DELIVERY
 
 2. **Simple SOW Template:**
    ```
-   QICKN LABS - Statement of Work
+   QuicknLabs - Statement of Work
    Client: [Name]
    Date: [Date]
 
@@ -582,7 +582,7 @@ You had a Go High Level (GHL) sub-account through Liam Otley's School community.
 | Folk CRM | $20/mo | Lightweight, great for agencies |
 | Notion | Free | All-in-one workspace |
 
-### Key Tools for QICKN LABS
+### Key Tools for QuicknLabs
 | Need | Tool | Link |
 |------|------|------|
 | Voice AI | Bland AI | https://bland.ai |
@@ -723,5 +723,5 @@ Based on your constraints (Tuesday/Friday busy, prayer flow Tuesday 4AM):
 
 ---
 
-*QICKN LABS - Built Different.*
+*QuicknLabs - Built Different.*
 *Document generated March 8, 2026*
