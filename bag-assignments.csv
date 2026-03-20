@@ -1,0 +1,100 @@
+Bag,Bag Name,Size,Item,Qty,Critical Item
+Bag 1,MAIN CAMERA,XL,Blackmagic 4K Main Camera,1,No
+Bag 1,MAIN CAMERA,XL,Blackmagic Camera Lens,1,No
+Bag 1,MAIN CAMERA,XL,Raincover for Main Camera,1,No
+Bag 1,MAIN CAMERA,XL,ATEM SDI Switcher #1,1,Yes
+Bag 1,MAIN CAMERA,XL,DJI TX/RX Pairs,2,Yes
+Bag 1,MAIN CAMERA,XL,Bi-Directional SDI Converter,1,Yes
+Bag 1,MAIN CAMERA,XL,Power Base Charger,1,No
+Bag 1,MAIN CAMERA,XL,USBC Cables for Camera Setup,4,No
+Bag 1,MAIN CAMERA,XL,NP-F Batteries (large),4,No
+Bag 1,MAIN CAMERA,XL,SDI Cables,4,No
+Bag 1,MAIN CAMERA,XL,HDMI to Mini HDMI Cable,1,No
+Bag 1,MAIN CAMERA,XL,Barrel Cable Supplement,2,No
+Bag 2,RECORDER + STORAGE,XL,Atomos Ninja V Recorder,1,No
+Bag 2,RECORDER + STORAGE,XL,ATEM SDI Switcher #2 (Backup),1,Yes
+Bag 2,RECORDER + STORAGE,XL,DJI TX/RX Pairs,2,Yes
+Bag 2,RECORDER + STORAGE,XL,Bi-Directional SDI Converter,1,Yes
+Bag 2,RECORDER + STORAGE,XL,SSD Hard Disk Storage,4,No
+Bag 2,RECORDER + STORAGE,XL,SD Cards,4,No
+Bag 2,RECORDER + STORAGE,XL,Arzopa Screen,1,No
+Bag 2,RECORDER + STORAGE,XL,Screen Power Cables,2,No
+Bag 2,RECORDER + STORAGE,XL,NP-F Batteries (large),4,No
+Bag 2,RECORDER + STORAGE,XL,SDI Cables,4,No
+Bag 2,RECORDER + STORAGE,XL,HDMI to Mini HDMI Cables,2,No
+Bag 3,PHONES + CAMERA SETUP,M,iPhone 15 Pro Max (with cage),3,No
+Bag 3,PHONES + CAMERA SETUP,M,iPhone 16 Pro Max (with cage),2,No
+Bag 3,PHONES + CAMERA SETUP,M,DJI TX/RX Pair,1,Yes
+Bag 3,PHONES + CAMERA SETUP,M,Bi-Directional SDI Converter,1,Yes
+Bag 3,PHONES + CAMERA SETUP,M,iPhone Dongles,6,No
+Bag 3,PHONES + CAMERA SETUP,M,HDMI Mini Adapters,2,No
+Bag 3,PHONES + CAMERA SETUP,M,HDMI Cables (short),5,No
+Bag 3,PHONES + CAMERA SETUP,M,USBC Cables Supplement,5,No
+Bag 3,PHONES + CAMERA SETUP,M,Zip Tie Pack,1,No
+Bag 4,TRANSMISSION + SIGNAL,M,DJI TX/RX Pairs,2,Yes
+Bag 4,TRANSMISSION + SIGNAL,M,SWIT Transmitter,1,Yes
+Bag 4,TRANSMISSION + SIGNAL,M,Bi-Directional SDI Converter,1,Yes
+Bag 4,TRANSMISSION + SIGNAL,M,AV Matrix Splitter & Converter,1,No
+Bag 4,TRANSMISSION + SIGNAL,M,Up/Down Cross Converter,1,No
+Bag 4,TRANSMISSION + SIGNAL,M,HDMI Splitter,1,No
+Bag 4,TRANSMISSION + SIGNAL,M,SDI Cables,4,No
+Bag 4,TRANSMISSION + SIGNAL,M,HDMI to Mini HDMI Cables,2,No
+Bag 4,TRANSMISSION + SIGNAL,M,USBC Power Cables,5,No
+Bag 5,POWER A,M,GAN Charger Station,1,No
+Bag 5,POWER A,M,Power Banks,2,No
+Bag 5,POWER A,M,NPF Dual Battery Chargers,2,No
+Bag 5,POWER A,M,NPF Charging Devices,2,No
+Bag 5,POWER A,M,NP-F Batteries (large),4,No
+Bag 5,POWER A,M,NP-F Batteries (small),3,No
+Bag 5,POWER A,M,Power Base Charger,1,No
+Bag 5,POWER A,M,Extension Boards,2,No
+Bag 5,POWER A,M,USB Power Hub,1,No
+Bag 5,POWER A,M,Type-C Cables,4,No
+Bag 6,POWER B,M,Power Banks,2,No
+Bag 6,POWER B,M,Swift Battery,1,No
+Bag 6,POWER B,M,SWIT Batteries,3,No
+Bag 6,POWER B,M,NPF Dual Battery Charger,1,No
+Bag 6,POWER B,M,NPF Fast Charger,1,No
+Bag 6,POWER B,M,Power Base Charger,1,No
+Bag 6,POWER B,M,NP-F Batteries (large),4,No
+Bag 6,POWER B,M,NP-F Batteries (small),3,No
+Bag 6,POWER B,M,Extension Boards,2,No
+Bag 6,POWER B,M,USB Power Hub,1,No
+Bag 6,POWER B,M,Type-C Cables,4,No
+Bag 7,AUDIO,S,Zoom Audio Interface (Small/New),1,No
+Bag 7,AUDIO,S,Zoom Audio Interface (Big/Old),1,No
+Bag 7,AUDIO,S,Audio Technica Headset,1,No
+Bag 7,AUDIO,S,Male to Jack Audio Cable,1,No
+Bag 7,AUDIO,S,Male to Aux Audio Cables,2,No
+Bag 7,AUDIO,S,1m Jack to Jack Cable,1,No
+Bag 7,AUDIO,S,XLR Cables,2,No
+Bag 8,NETWORK + INTERNET,S,Peplink Router & Power Cable,1,No
+Bag 8,NETWORK + INTERNET,S,GL Router (MTN),1,No
+Bag 8,NETWORK + INTERNET,S,Small LiveU with 2 Chargers,1,No
+Bag 8,NETWORK + INTERNET,S,Ethernet Cables,2,No
+Bag 8,NETWORK + INTERNET,S,Short Ethernet Cable,1,No
+Bag 8,NETWORK + INTERNET,S,Extension Board,1,No
+Bag 8,NETWORK + INTERNET,S,Type-C Cables,3,No
+Bag 9,COMMS + MONITORS,S,Walkie Talkies,4,No
+Bag 9,COMMS + MONITORS,S,Walkie Talkie Chargers,4,No
+Bag 9,COMMS + MONITORS,S,Pepper Jobs Screen,1,No
+Bag 9,COMMS + MONITORS,S,Portable Screen (3rd),1,No
+Bag 9,COMMS + MONITORS,S,Screen Power Cables,4,No
+Bag 10,DRONE,Old Large,DJI Mavic Drone,1,No
+Bag 10,DRONE,Old Large,Drone Batteries,6,No
+Bag 10,DRONE,Old Large,Intelligent Drone Chargers,2,No
+Bag 11,360 CAM,Old Medium,Instalive 360 Camera with Selfie Stick,1,No
+Bag 11,360 CAM,Old Medium,Blackmagic Camera Lens,1,No
+Bag 11,360 CAM,Old Medium,Supplementary Tripod,1,No
+Bag 12,CABLES,Old Small,SDI Cables (remaining),8,No
+Bag 12,CABLES,Old Small,HDMI Cables,5,No
+Bag 12,CABLES,Old Small,USBC Power Cables,4,No
+Bag 12,CABLES,Old Small,Zip Tie Packs,2,No
+Bag 13,MISCELLANEOUS,,Wheel Tracks,3,No
+Bag 13,MISCELLANEOUS,,Blackmagic Camera Lens,1,No
+Bag 13,MISCELLANEOUS,,[BUY] Short SDI Cables (1m),4,No
+Bag 13,MISCELLANEOUS,,[BUY] SDI Cables (2m),4,No
+Bag 13,MISCELLANEOUS,,[BUY] Short HDMI Cables,4,No
+Bag 13,MISCELLANEOUS,,[BUY] Zip Locks,1,No
+Carry Separate,N/A,,Starlink Router + Power Cable + 3m Ethernet,1,No
+Carry Separate,N/A,,Tripods,5,No
