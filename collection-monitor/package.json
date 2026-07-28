@@ -1,0 +1,14 @@
+{
+  "name": "collection-monitor",
+  "version": "1.0.0",
+  "description": "Global collection monitoring app: income declaration, tax calculation, payment notifications (WhatsApp/SMS/Email), proof-of-payment upload and verification.",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "seed": "node server/seed.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "MIT"
+}
